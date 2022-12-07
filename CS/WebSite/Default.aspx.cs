@@ -3,7 +3,7 @@ using System.Data;
 using System.Threading;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxCallback;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page {
     private const string userID = "0bac71c1-5afb-49c3-aadc-cd825a89ce1b";
